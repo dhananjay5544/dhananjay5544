@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Cloud
 - 🌱 I’m currently exploring new tech
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me [Twitter]("www.twitter.com/jay_tweets__")
+- 📫 How to reach me [Twitter]("https://twitter.com/jay_tweets__")
 
 <!---
 dhananjay5544/dhananjay5544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
