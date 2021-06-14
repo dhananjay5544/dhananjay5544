@@ -16,6 +16,7 @@ const dhananjay = {
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "devops", "cloud"],
     technologies: {
+        devOps: ["AWS", "Azure","Terraform", "Kubernates", "Docker🐳", "Ansible", "CI CD", "microservices", "Jenkins"],
         frontEnd: {
             js: ["React", "Angular"],
             css: ["materialize", "bootstrap"]
@@ -24,7 +25,6 @@ const dhananjay = {
             js: ["node", "express", "Next.js"],
             java: ["spring-boot"]
         },
-        devOps: ["AWS", "Docker🐳", "Kubernates", "Ansible", "CI CD", "microservices", "Jenkins", "Terraform"],
         databases: ["Postgres" ,"Mongo", "MySql", "Cassandra"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
